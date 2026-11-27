@@ -43,15 +43,6 @@
       }
     },
     {
-      "key": "Jianpian",
-      "name": "🧲┆荐片┆磁力",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "https://api.ztcgi.com"
-    },
-    {
       "key": "FishDuoduo",
       "name": "🍀┆多多┆4K",
       "type": 3,
