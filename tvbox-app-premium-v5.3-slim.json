@@ -2,20 +2,6 @@
   "spider": "https://raw.githubusercontent.com/qingb188/tvbox/main/merged-spider-v5.3-slim.jar",
   "sites": [
     {
-      "key": "Kan360",
-      "name": "🫐┆三六┆影视",
-      "type": 3,
-      "api": "csp_Kan360",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": {
-        "filter": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/8aF9/360.json",
-        "fishjx": [
-          "https://jx.xmflv.com/?url="
-        ]
-      }
-    },
-    {
       "key": "Rebo",
       "name": "🍓┆热播┆APP",
       "type": 3,
@@ -186,6 +172,20 @@
           "https://libvio.app",
           "https://libfabu.com",
           "https://libviogroup.github.io"
+        ]
+      }
+    },
+    {
+      "key": "Kan360",
+      "name": "🫐┆三六┆影视",
+      "type": 3,
+      "api": "csp_Kan360",
+      "searchable": 1,
+      "filterable": 1,
+      "ext": {
+        "filter": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/8aF9/360.json",
+        "fishjx": [
+          "https://jx.xmflv.com/?url="
         ]
       }
     }
