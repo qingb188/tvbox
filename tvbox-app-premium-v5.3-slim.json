@@ -226,16 +226,6 @@
       }
     },
     {
-      "key": "七夜",
-      "name": "阿里 | 七夜[jar]",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./lib/token.json",
-      "timeout": 30
-    },
-    {
       "key": "Duboku",
       "name": "🎯┆独播┆影视",
       "type": 3,
