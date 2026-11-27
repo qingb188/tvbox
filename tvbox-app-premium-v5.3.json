@@ -1,5 +1,5 @@
 {
-  "spider": "http://172.17.0.1:8000/merged-spider-v5.3.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/qingb188/tvbox/main/merged-spider-v5.3.jar",
   "sites": [
     {
       "key": "Douban",
