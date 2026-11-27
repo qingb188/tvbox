@@ -79,17 +79,6 @@
       "ext": "https://api.ztcgi.com"
     },
     {
-      "key": "WoNiu",
-      "name": "🐌┆蜗牛┆4K",
-      "type": 3,
-      "api": "csp_WoNiu",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://wn4k.com/"
-      }
-    },
-    {
       "key": "SeedHub",
       "name": "🌱┆Seed┆4K",
       "type": 3,
