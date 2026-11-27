@@ -165,6 +165,33 @@
       }
     },
     {
+      "key": "Fishgege",
+      "name": "💫┆八零┆4K",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      }
+    },
+    {
+      "key": "Fishshayang",
+      "name": "🤭┆傻样┆4K",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
+        ]
+      }
+    },
+    {
       "key": "FishConfig",
       "name": "🍼┆设置┆中心",
       "type": 3,
