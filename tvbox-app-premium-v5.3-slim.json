@@ -234,16 +234,6 @@
       "ext": "Ae8DpdkJGH5s9XIrvlLd8DvpiYdkSSaoIDmmvofda4Gpr9yX8k0a4w1wNmnu4CZ4Nnh03XkYIwooJ+psbf6P8ZY="
     },
     {
-      "key": "FourK",
-      "name": "🌔┆望舒┆4K",
-      "type": 3,
-      "api": "csp_App88",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA=="
-    },
-    {
       "key": "bandeng",
       "name": "🪑┆板凳┆4K",
       "type": 3,
@@ -252,16 +242,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "ASH3HkV5cxNhNR9+uQe0sWYxUWHzEywHT3rcYOx+wsK4Jx+sBd0qMO9kFic1Rc1osAMsAsTlMgabd1Ky2kmzQ/Y="
-    },
-    {
-      "key": "shangtou",
-      "name": "🫠┆上头┆4K",
-      "type": 3,
-      "api": "csp_ShangTou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "Ab723PUSGcnjpXT6567J5El7ZP+7lqBKJnQzkeqdAaVU29VedG35Y36vvAZWXOyL7tUL38RB0IWmvwZj4wWtuwyEOmAg2Nbpi1z46QBiBTmY"
     },
     {
       "key": "KaiFan",
