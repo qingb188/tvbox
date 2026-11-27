@@ -16,22 +16,6 @@
       }
     },
     {
-      "key": "Libvio",
-      "name": "📺┆立播┆4K",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://libviofabu.com",
-          "https://libvio.app",
-          "https://libfabu.com",
-          "https://libviogroup.github.io"
-        ]
-      }
-    },
-    {
       "key": "WoNiu",
       "name": "🐌┆蜗牛┆4K",
       "type": 3,
@@ -188,6 +172,22 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
+    },
+    {
+      "key": "Libvio",
+      "name": "📺┆立播┆4K",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://libviofabu.com",
+          "https://libvio.app",
+          "https://libfabu.com",
+          "https://libviogroup.github.io"
+        ]
+      }
     }
   ],
   "rules": [],
