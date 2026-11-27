@@ -2,6 +2,28 @@
   "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/qingb188/tvbox/main/merged-spider-v5.3-slim.jar",
   "sites": [
     {
+      "key": "Douban",
+      "name": "🌕️┆片单┆精选",
+      "type": 3,
+      "api": "csp_PianDan",
+      "searchable": 1,
+      "indexs": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "home": {
+          "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
+          "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
+        }
+      }
+    },
+    {
+      "key": "FishConfig",
+      "name": "🍼┆设置┆中心",
+      "type": 3,
+      "api": "csp_FishConfig"
+    },
+    {
       "key": "Rebo",
       "name": "🍓┆热播┆APP",
       "type": 3,
@@ -222,22 +244,6 @@
       "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA=="
     },
     {
-      "key": "Douban",
-      "name": "🌕️┆片单┆精选",
-      "type": 3,
-      "api": "csp_PianDan",
-      "searchable": 1,
-      "indexs": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "home": {
-          "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
-          "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
-        }
-      }
-    },
-    {
       "key": "bandeng",
       "name": "🪑┆板凳┆4K",
       "type": 3,
@@ -266,12 +272,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw="
-    },
-    {
-      "key": "FishConfig",
-      "name": "🍼┆设置┆中心",
-      "type": 3,
-      "api": "csp_FishConfig"
     }
   ],
   "rules": [],
