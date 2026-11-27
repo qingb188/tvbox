@@ -174,20 +174,6 @@
           "https://libviogroup.github.io"
         ]
       }
-    },
-    {
-      "key": "Kan360",
-      "name": "🫐┆三六┆影视",
-      "type": 3,
-      "api": "csp_Kan360",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": {
-        "filter": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/8aF9/360.json",
-        "fishjx": [
-          "https://jx.xmflv.com/?url="
-        ]
-      }
     }
   ],
   "rules": [],
