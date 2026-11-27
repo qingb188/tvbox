@@ -16,6 +16,18 @@
       }
     },
     {
+      "key": "Rebo",
+      "name": "🍓┆热播┆APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
       "key": "WoNiu",
       "name": "🐌┆蜗牛┆4K",
       "type": 3,
@@ -118,18 +130,6 @@
           "https://www.czzy.site",
           "https://czzy.top"
         ]
-      }
-    },
-    {
-      "key": "Rebo",
-      "name": "🍓┆热播┆APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
       }
     },
     {
