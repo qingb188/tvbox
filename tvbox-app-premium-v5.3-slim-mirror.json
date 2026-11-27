@@ -360,6 +360,17 @@
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321"
       }
+    },
+    {
+      "key": "夜猫",
+      "name": "🦉┆夜猫┆4K",
+      "type": 3,
+      "api": "csp_App88",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "AR/RtwIvqcmx6ZGW8sbi7eFkPpUl48Y1f1lgZfeNDxJrNKwGVF/fADYHz0psPEF7KvDaccyt60bwK9lzVNUIhPUxyKFOo7u9iPyZxUTbxyAZ"
     }
   ],
   "rules": [],
