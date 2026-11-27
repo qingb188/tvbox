@@ -218,6 +218,12 @@
       "changeable": 0,
       "ext": "./lib/token.json",
       "timeout": 30
+    },
+    {
+      "key": "FishConfig",
+      "name": "🍼┆设置┆中心",
+      "type": 3,
+      "api": "csp_FishConfig"
     }
   ],
   "rules": [],
