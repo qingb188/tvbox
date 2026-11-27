@@ -12,14 +12,6 @@
       "ext": "Acf4n+FgSJlps29HFqyt+ECG19M+iLto9fxzwikME3YOnRFfaIWR3C9CZF+/o2jh4T6D4bOxYn8j775k1TLOsSHsG7tlKBqeENs8VhcKgZS5u7Gb8/LXYDutl7a21jsXLw=="
     },
     {
-      "key": "wencai",
-      "name": "✏️┆文才┆影视",
-      "type": 3,
-      "api": "csp_WenCai",
-      "searchable": 1,
-      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },
-    {
       "key": "Duboku",
       "name": "🎯┆独播┆影视",
       "type": 3,
@@ -79,17 +71,6 @@
       }
     },
     {
-      "key": "拼图",
-      "name": "🧩┆拼图┆4K",
-      "type": 3,
-      "api": "csp_NiuLai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "Ad2ohQzN3yKRQEHDYDkK1JK8CL3Se9zIBI5Q4VBRKeR6pIWjoaXOktd6l4RWPQi46M/xcnQCEN8R1PIqXGBDZPds5tolkQ4pUoWAaOKxXmPk"
-    },
-    {
       "key": "Fishhuajuan",
       "name": "🌸┆花卷┆4K",
       "type": 3,
@@ -123,33 +104,6 @@
       }
     },
     {
-      "key": "Manbo",
-      "name": "🕺┆曼波┆动漫",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
-    },
-    {
-      "key": "兰芷",
-      "name": "🌷┆兰芷┆APP",
-      "api": "csp_AppUn",
-      "type": 3,
-      "ext": "AZd2zeWnJd10mMjpA2gpKlWDq7ggxf6XDxDuTaoinynvJ3eEi1bZPxC2qgkkAiACxISnMdRC37ODaT/tTEd9foyUox+SNWIsGzujicg5VFm7"
-    },
-    {
-      "key": "AppZy_wanqing",
-      "name": "🌇┆晚晴┆4K",
-      "type": 3,
-      "api": "csp_AppZy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ARO+hB5vdFdHClVkrLOIgsdq6Ox6dBaesfwPqkaGkkI/kFSRmoG2vqoBgQJ4rQUfq9S/OqwEWkP8qRb4VM8DrYnl2UGeGnTvJjwdn+dbV8Nh"
-    },
-    {
       "key": "SeedHub",
       "name": "🌱┆Seed┆4K",
       "type": 3,
@@ -160,25 +114,6 @@
           "https://sidhub.cc",
           "https://seeduck.cc",
           "https://hubdog.cc"
-        ]
-      }
-    },
-    {
-      "key": "Qiwei",
-      "name": "🌈┆七味┆4K",
-      "type": 3,
-      "api": "csp_Qiwei",
-      "searchable": 1,
-      "filterable": 0,
-      "ext": {
-        "site": [
-          "https://www.qwnull.com",
-          "https://www.qwmkv.com",
-          "https://www.qwfilm.com",
-          "https://www.qnmp4.com",
-          "https://www.qnnull.com",
-          "https://www.qnhot.com",
-          "https://www.qncool.com"
         ]
       }
     },
@@ -308,22 +243,6 @@
       "changeable": 0,
       "ext": "./lib/token.json",
       "timeout": 30
-    },
-    {
-      "key": "泥巴",
-      "name": "泥巴",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "櫻花",
-      "name": "櫻花",
-      "type": 3,
-      "api": "csp_Ying",
-      "searchable": 1,
-      "changeable": 1
     }
   ],
   "rules": [],
