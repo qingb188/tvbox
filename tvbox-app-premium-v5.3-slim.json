@@ -146,20 +146,6 @@
       }
     },
     {
-      "key": "SeedHub",
-      "name": "🌱┆Seed┆4K",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://sidhub.cc",
-          "https://seeduck.cc",
-          "https://hubdog.cc"
-        ]
-      }
-    },
-    {
       "key": "CZ",
       "name": "🏭┆厂长┆影视",
       "type": 3,
