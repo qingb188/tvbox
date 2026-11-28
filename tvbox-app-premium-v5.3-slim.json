@@ -24,45 +24,6 @@
       "api": "csp_FishConfig"
     },
     {
-      "key": "Rebo",
-      "name": "🍓┆热播┆APP",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
-      "key": "FishDuoduo",
-      "name": "🍀┆多多┆4K",
-      "type": 3,
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      }
-    },
-    {
-      "key": "Fishhuajuan",
-      "name": "🌸┆花卷┆4K",
-      "type": 3,
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://www.hjzhencai.top",
-          "https://www.huanjuanwp.shop"
-        ]
-      }
-    },
-    {
       "key": "Guazi",
       "name": "🍉┆瓜子┆影视",
       "type": 3,
@@ -70,42 +31,14 @@
       "searchable": 1
     },
     {
-      "key": "bl",
-      "name": "🤪┆摆烂┆4K",
+      "key": "Yidong4K",
+      "name": "📶┆移动┆4K",
       "type": 3,
-      "api": "csp_App88",
+      "api": "csp_Yidong4K",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "Acf4n+FgSJlps29HFqyt+ECG19M+iLto9fxzwikME3YOnRFfaIWR3C9CZF+/o2jh4T6D4bOxYn8j775k1TLOsSHsG7tlKBqeENs8VhcKgZS5u7Gb8/LXYDutl7a21jsXLw=="
-    },
-    {
-      "key": "fishhxq",
-      "name": "💃┆韩圈┆影视",
-      "type": 3,
-      "api": "csp_FishHxq",
-      "searchable": 1,
-      "ext": "AfEuiKVYhFJoZfX14qKZ6B/GuVuuG1J+2u0TrTgQMlT+T6fw+zkIdP0NTr6BT3Oa5aQs8EIbxPwjpG7UH/U75WM="
-    },
-    {
-      "key": "肥猫",
-      "name": "🐼┃肥猫┃APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt|oW5UxZ5kWVr1DI69"
-    },
-    {
-      "key": "FishHuban",
-      "name": "🐅┆虎斑┆4K",
-      "type": 3,
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "http://xhban.xyz",
-          "http://38.76.197.172:16969"
-        ]
-      }
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "CZ",
@@ -126,38 +59,6 @@
           "https://cz01.vip",
           "https://www.czzy.site",
           "https://czzy.top"
-        ]
-      }
-    },
-    {
-      "key": "Wogg",
-      "name": "👽️┆玩偶┆4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "site": [
-          "https://wogg.xxooo.cf",
-          "https://woggpan.888484.xyz",
-          "https://www.wogg.live",
-          "http://woggpan.xxooo.cf"
-        ],
-        "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
-      }
-    },
-    {
-      "key": "FishMuou",
-      "name": "🪵┆木偶┆4K",
-      "type": 3,
-      "api": "csp_FishCloud",
-      "searchable": 1,
-      "ext": {
-        "site": [
-          "https://www.muoua.top",
-          "https://333.333291.xyz",
-          "https://666.666291.xyz"
         ]
       }
     },
@@ -187,51 +88,88 @@
       }
     },
     {
-      "key": "Fishgege",
-      "name": "💫┆八零┆4K",
+      "key": "Wogg",
+      "name": "👽️┆玩偶┆4K",
       "type": 3,
-      "api": "csp_FishCloud",
+      "api": "csp_Wogg",
       "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
       "ext": {
         "site": [
-          "https://woog.nxog.eu.org",
-          "https://ogkk.nxog.eu.org",
-          "https://woog.430520.xyz"
-        ]
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
+          "https://www.wogg.live",
+          "http://woggpan.xxooo.cf"
+        ],
+        "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
       }
     },
     {
-      "key": "Fishshayang",
-      "name": "🤭┆傻样┆4K",
+      "key": "fishhxq",
+      "name": "💃┆韩圈┆影视",
       "type": 3,
-      "api": "csp_FishCloud",
+      "api": "csp_FishHxq",
       "searchable": 1,
+      "ext": "AfEuiKVYhFJoZfX14qKZ6B/GuVuuG1J+2u0TrTgQMlT+T6fw+zkIdP0NTr6BT3Oa5aQs8EIbxPwjpG7UH/U75WM="
+    },
+    {
+      "key": "肥猫",
+      "name": "🐼┃肥猫┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt|oW5UxZ5kWVr1DI69"
+    },
+    {
+      "key": "Rebo",
+      "name": "🍓┆热播┆APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
       "ext": {
-        "site": [
-          "http://xsayang.fun",
-          "http://38.76.197.172:12521"
-        ]
+        "url": "http://v.rbotv.cn"
       }
     },
     {
-      "key": "jz",
-      "name": "🍵┆煮雪┆4K",
+      "key": "王子",
+      "name": "王子 • APP",
       "type": 3,
-      "api": "csp_App88",
+      "api": "csp_AppGet",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUeoWDxT/Sza6llGoZlPCelc2ZgSZNx8QBoJAONichQm4mIf8nslnxOIU1wrq2vvzWouK156R9sXK/CRGs6G6fc="
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
     },
     {
-      "key": "hy",
-      "name": "🌼┆棠梨┆4K",
+      "key": "世界",
+      "name": "世界 • APP",
       "type": 3,
-      "api": "csp_App88",
+      "api": "csp_AppGet",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "Ae8DpdkJGH5s9XIrvlLd8DvpiYdkSSaoIDmmvofda4Gpr9yX8k0a4w1wNmnu4CZ4Nnh03XkYIwooJ+psbf6P8ZY="
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcms.4ksj.app",
+        "dataKey": "O3K6rYx75Q4xtiIE",
+        "dataIv": "O3K6rYx75Q4xtiIE"
+      }
+    },
+    {
+      "key": "魔方",
+      "name": "魔方 • APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://www.douy32mf.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
     },
     {
       "key": "bandeng",
@@ -323,64 +261,85 @@
       }
     },
     {
-      "key": "王子",
-      "name": "王子 • APP",
+      "key": "FishDuoduo",
+      "name": "🍀┆多多┆4K",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "changeable": 1,
       "ext": {
-        "url": "https://app.95112475.xyz",
-        "dataKey": "5a9w6x58dsq6z3a6",
-        "dataIv": "5a9w6x58dsq6z3a6"
+        "site": [
+          "https://tv.yydsys.top",
+          "https://tv.yydsys.cc",
+          "https://tv.214521.xyz"
+        ]
       }
     },
     {
-      "key": "世界",
-      "name": "世界 • APP",
+      "key": "Fishhuajuan",
+      "name": "🌸┆花卷┆4K",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "changeable": 1,
       "ext": {
-        "url": "https://appcms.4ksj.app",
-        "dataKey": "O3K6rYx75Q4xtiIE",
-        "dataIv": "O3K6rYx75Q4xtiIE"
+        "site": [
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
+        ]
       }
     },
     {
-      "key": "魔方",
-      "name": "魔方 • APP",
+      "key": "FishHuban",
+      "name": "🐅┆虎斑┆4K",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "changeable": 1,
       "ext": {
-        "url": "https://www.douy32mf.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
+        "site": [
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
+        ]
       }
     },
     {
-      "key": "夜猫",
-      "name": "🦉┆夜猫┆4K",
+      "key": "FishMuou",
+      "name": "🪵┆木偶┆4K",
       "type": 3,
-      "api": "csp_App88",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "AR/RtwIvqcmx6ZGW8sbi7eFkPpUl48Y1f1lgZfeNDxJrNKwGVF/fADYHz0psPEF7KvDaccyt60bwK9lzVNUIhPUxyKFOo7u9iPyZxUTbxyAZ"
+      "ext": {
+        "site": [
+          "https://www.muoua.top",
+          "https://333.333291.xyz",
+          "https://666.666291.xyz"
+        ]
+      }
     },
     {
-      "key": "Yidong4K",
-      "name": "📶┆移动┆4K",
+      "key": "Fishgege",
+      "name": "💫┆八零┆4K",
       "type": 3,
-      "api": "csp_Yidong4K",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      }
+    },
+    {
+      "key": "Fishshayang",
+      "name": "🤭┆傻样┆4K",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "ext": {
+        "site": [
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
+        ]
+      }
     }
   ],
   "rules": [],
