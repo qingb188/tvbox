@@ -371,16 +371,6 @@
       "filterable": 1,
       "changeable": 0,
       "ext": "AR/RtwIvqcmx6ZGW8sbi7eFkPpUl48Y1f1lgZfeNDxJrNKwGVF/fADYHz0psPEF7KvDaccyt60bwK9lzVNUIhPUxyKFOo7u9iPyZxUTbxyAZ"
-    },
-    {
-      "key": "SaoHuo",
-      "name": "🌶️┆骚火┆影视",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://shdy5.us"
     }
   ],
   "rules": [],
